@@ -194,67 +194,6 @@ Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/0
 
 For a hands-on walkthrough of al-folio installation, check out [this cool video tutorial](https://www.youtube.com/watch?v=g6AJ9qPPoyc) by one of the community members! 🎬 🍿
 
-The preferred way of using this template is by clicking in [Use this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template) above the file list.
-Then, create a new repository at `github.com:<your-username>/<your-repo-name>`. If you plan to upload your site to `<your-github-username>.github.io`,
-note that the name of your repository must be `<your-github-username>.github.io` or `<your-github-orgname>.github.io`, as stated in the [GitHub pages docs](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites).
-For more information on how to deploy your site, check the [Deployment](#deployment) section below. After you created your new repository, just download it to your machine:
-
-```bash
-$ git clone git@github.com:<your-username>/<your-repo-name>.git
-$ cd <your-repo-name>
-```
-
----
-
-#### Local setup using Docker (Recommended)
-Using Docker to install Jekyll and Ruby dependencies is the easiest way.
-
-You need to take the following steps to get `al-folio` up and running on your local machine:
-
-- First, install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/).
-- Finally, run the following command that will pull the latest pre-built image from DockerHub and will run your website.
-
-```bash
-$ docker-compose up
-```
-
-Note that when you run it for the first time, it will download a docker image of size 400MB or so. 
-
-Now, feel free to customize the theme however you like (don't forget to change the name!). After you are done, you can use the same command (`docker-compose up`) to render the webpage with all you changes. Also, make sure to commit your final changes.
-
-> To change port number, you can edit `docker-compose.yml` file.
-
-<details><summary>(click to expand) <strong>Build your own docker image:</strong></summary>
-
-> Note: this approach is only necessary if you would like to build an older or very custom version of al-folio.
-
-Build and run a new docker image using:
-
-```bash
-$ docker-compose -f docker-local.yml up
-```
-
-> If you want to update jekyll, install new ruby packages, etc., all you have to do is build the image again using `--force-recreate` argument at the end of previous command! It will download ruby and jekyll and install all ruby packages again from scratch.
-
-</details>
-
----
-
-#### Local Setup (Legacy)
-
-Assuming you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](https://bundler.io/) installed on your system (*hint: for ease of managing ruby gems, consider using [rbenv](https://github.com/rbenv/rbenv)*), and also [Python](https://www.python.org/) and [pip](https://pypi.org/project/pip/) (*hint: for ease of managing python packages, consider using a virtual environment, like [venv](https://docs.python.org/pt-br/3/library/venv.html) or [conda](https://docs.conda.io/en/latest/). If you will use only `jupyter`, you can use [pipx](https://pypa.github.io/pipx/)*).
-
-```bash
-$ bundle install
-# assuming pip is your Python package manager
-$ pip install jupyter
-$ bundle exec jekyll serve --lsi
-```
-
-Now, feel free to customize the theme however you like (don't forget to change the name!).
-After you are done, **commit** your final changes.
-
----
 
 #### Deployment
 
@@ -265,9 +204,10 @@ Starting version [v0.3.5](https://github.com/alshedivat/al-folio/releases/tag/v0
 
 1. The name of your repository **MUST BE** `<your-github-username>.github.io` or `<your-github-orgname>.github.io`.
 2. In `_config.yml`, set `url` to `https://<your-github-username>.github.io` and leave `baseurl` empty.
-3. Set up automatic deployment of your webpage (see instructions below).
-4. Make changes, commit, and push!
-5. After deployment, the webpage will become available at `<your-github-username>.github.io`.
+3. **Setting** of you the repository -> **pages** -> deploy from: select **gh-pages** branch , not the master brach.
+4. Set up automatic deployment of your webpage (see instructions below).
+5. Make changes, commit, and push!
+6. After deployment, the webpage will become available at `<your-github-username>.github.io`.
 
 **For project pages:**
 
