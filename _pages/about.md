@@ -58,6 +58,14 @@ social: true  # includes social icons at the bottom of the page
 4. [**计算传播学讲义**](https://chengjun.github.io/mybook/) 网络版上线! 
 5. 欢迎来玩我使用[Microsoft MakeCode Arcade](https://arcade.makecode.com/)制作的[飞车游戏](https://chengjun.github.io/racer-makecode/)和[jumpy platformer](https://chengjun.github.io/jumpy-platformer)，后者修改了一些基本设置。
 
+
+
+<br>
+    
+✏️ [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/about.md)
+
+<br>
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xorLRfA9WXTeIBpZiDJaNz_VyfaXaGGoKDZIUmjqqu8"></script>
 
 <br>
@@ -69,14 +77,5 @@ social: true  # includes social icons at the bottom of the page
 
 <br>
 
-    
-✏️ [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/about.md)
-
-<br>
-<br>
-
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 
