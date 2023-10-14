@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Cheng-Jun Wang",
-    "label": "Social Scientist",
+    "label": "",
     "image": "",
     "email": "wangchengjun@nju.edu.cn",
     "phone": "",
     "url": "https://socratesclub.github.io/",
-    "summary": "A China-born social scientist",
+    "summary": "",
     "location": {
       "address": "163 Xianlin Street",
       "postalCode": "210023",
@@ -24,38 +24,38 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "School of Journalism and Communication, Nanjing University",
+      "position": "Associate Professor",
+      "url": "",
+      "startDate": "2017-12-09",
+      "endDate": "Now",
+      "summary": "",
       "highlights": [
-        "Relativity"
+        "Computational Communication"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "City University of Hong Kong, Hong Kong, China",
+      "url": "",
+      "area": "Media and Communication",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2010-09-01",
+      "endDate": "2014-10-01",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Information Diffusion"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "certificates": [],
