@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Cheng-Jun Wang",
+    "label": "Social Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "wangchengjun@nju.edu.cn",
+    "phone": "",
+    "url": "https://socratesclub.github.io/",
+    "summary": "A China-born social scientist",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "163 Xianlin Street",
+      "postalCode": "210023",
+      "city": "Nanjing",
+      "countryCode": "CN",
+      "region": "Jiangsu"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "ChengJunWang",
+        "url": "https://twitter.com/ChengJunWang"
       }
     ]
   },
@@ -63,7 +63,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
