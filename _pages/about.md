@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Know Thyself</a>. 
-
+subtitle: 
 profile:
   align: right
   image: avatar.jpeg
@@ -23,22 +22,11 @@ Cheng-Jun Wang is currently an associate  professor in the [School of Journalism
 
 <img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
 
-<br>
+
 
 <br>
     
 ✏️ [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/about.md)
-
-<br>
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xorLRfA9WXTeIBpZiDJaNz_VyfaXaGGoKDZIUmjqqu8"></script>
-
-<br>
-
-<html xmlns:wb="//open.weibo.com/wb">
-<script src="//tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8" height="1200" ></script>
-
-<wb:show uid="5694690999" width="850" verifier="6f31e019"></wb:show>
 
 <br>
 
