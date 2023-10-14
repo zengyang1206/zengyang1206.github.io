@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: 
 nav: true
 nav_order: 3
 ---
@@ -42,3 +42,10 @@ nav_order: 3
   {% endfor %}
 </div>
 {% endif %}
+
+<br>
+    
+✏️ [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_data/repositories.yml)
+
+<br>
+
