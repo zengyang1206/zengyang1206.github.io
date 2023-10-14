@@ -22,12 +22,12 @@ social: true  # includes social icons at the bottom of the page
 王成军，博士。现任南京大学新闻传播学院副教授、博士生导师，计算传播学实验中心主任。他致力于采用计算社会科学视角研究人类传播行为，包括信息扩散、注意力流动和计算叙事。著作《跨越网络的门槛：社交媒体上的信息扩散》（2022）；合著《计算传播学导论》(2018)、《社交网络上的计算传播学》(2015)。
 
 
-### 教育经历
+#### 教育经历
 - 传播学博士，香港城市大学媒体与传播系，2010-2014
 - 传播学硕士，北京大学新闻与传播学院，2008-2010
 - 新闻学学士，兰州大学新闻与传播学院，2004-2008
 
-### 新书出版
+#### 新书出版
 
 我的新书[《跨越网络的门槛：社交媒体上的信息扩散》](https://book.douban.com/subject/36017047/)于2022年7月在科学出版社正式出版！
 
@@ -41,7 +41,7 @@ social: true  # includes social icons at the bottom of the page
 - Github代码仓库 [链接🔗](https://github.com/chengjun/thresholdbook)
 
 
-### 招生信息
+#### 招生信息
 
 **招收**2024年入学的博士生和硕士生。请将申请材料发送到[我的邮箱📮](mailto:wangchengjun@nju.edu.cn)，申请材料包括：个人简历、成绩单、代表性论文或手稿、个人传记。其中，个人传记除了描述个人经历之外，还需要介绍：`编程能力和作品（尽量详细）、数学或物理学建模能力和作品（尽量详细）、如何分享知识和技能、为什么要读研（想要研究什么困惑）、为什么选择我的课题组、将来的职业规划、个人最大的优点和缺点等`。
 
@@ -60,12 +60,14 @@ social: true  # includes social icons at the bottom of the page
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xorLRfA9WXTeIBpZiDJaNz_VyfaXaGGoKDZIUmjqqu8"></script>
 
-  
+<br>
 
 <html xmlns:wb="//open.weibo.com/wb">
 <script src="//tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8" height="1200" ></script>
 
 <wb:show uid="5694690999" width="850" verifier="6f31e019"></wb:show>
+
+<br>
 
 Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
@@ -73,6 +75,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <br>
     
-✏️ [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/about.md))
+✏️ [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/about.md)
 
 <br>
