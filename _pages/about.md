@@ -21,6 +21,6 @@ social: true  # includes social icons at the bottom of the page
 
 Zeng Yang is now a graduate student majoring in journalism and communication from the School of Journalism and Communication of Nanjing University.
 
-Her research interests are digital marketing and brand lies. During his time in school, he participated in many subject competitions and won awards. At the same time, scientific research has also hosted a national college student innovation and entrepreneurship project.
+Her research interests are digital marketing and brand lies. During her time in school, she participated in many subject competitions and won awards. At the same time, she also hosted a national college student innovation and entrepreneurship project.
 
-You can find his CV here.
+You can find her CV here.
