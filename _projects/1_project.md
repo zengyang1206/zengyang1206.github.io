@@ -7,8 +7,8 @@ importance: 1
 category: work
 related_publications: PhysRev.47.777
 ---
+With the acceleration of rural digitalization and the penetration of online purchasing, the rural offline economy is facing difficulties such as customer loss and profit reduction. Women, a main force in China's rural economic development, are seeking to achieve digital transformation for their offline businesses. This project focuses on rural female entrepreneurs who carry out digital practice in the era of digital economy transformation. Starting from understanding their use of digital media, this project explores the process of digital entrepreneurship, analyzes the opportunities and challenges of rural female entrepreneurs in digital entrepreneurship, and puts forward strategies to promote their digital practices. The study finds that rural female entrepreneurs are more inclined to take digital entrepreneurship as a supplement to their lives and work, focusing on community group buying, micro-business, and short video operation, showing the characteristics of low cost, low threshold and low risk. While online entrepreneurship has positive impact on rural women of fulfilling lives, balancing families, and pursuing themselves, it also brings them new dilemmas.
 
-As the person in charge, I am mainly responsible for the planning and promotion of the project, the planning and implementation of questionnaires and interviews, and the writing of written materials such as the project proposal and research materials.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
@@ -53,20 +53,6 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 </div>
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+As the person in charge, I am mainly responsible for the planning and promotion of the project, the planning and implementation of questionnaires and interviews, and the writing of written materials such as the project proposal and research materials.
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+In the research process of this national project, I led the team to 11 townships and districts, docking and in-depth interviews with more than 20 rural women entrepreneurs, and analyzed the questionnaire data by using SPSS, NVivo, and formed a professional academic report, and successfully completed the project in the expert group's review, and was assessed as an "excellent project". The project was successfully completed and assessed as "Excellent Project" by the expert group.
