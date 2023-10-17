@@ -9,6 +9,7 @@ related_publications: PhysRev.47.777
 ---
 With the acceleration of rural digitalization and the penetration of online purchasing, the rural offline economy is facing difficulties such as customer loss and profit reduction. Women, a main force in China's rural economic development, are seeking to achieve digital transformation for their offline businesses. 
 
+This project focuses on rural female entrepreneurs who carry out digital practice in the era of digital economy transformation. Starting from understanding their use of digital media, this project explores the process of digital entrepreneurship, analyzes the opportunities and challenges of rural female entrepreneurs in digital entrepreneurship, and puts forward strategies to promote their digital practices. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -21,7 +22,7 @@ With the acceleration of rural digitalization and the penetration of online purc
     </div>
 </div>
 <div class="caption">
-This project focuses on rural female entrepreneurs who carry out digital practice in the era of digital economy transformation. Starting from understanding their use of digital media, this project explores the process of digital entrepreneurship, analyzes the opportunities and challenges of rural female entrepreneurs in digital entrepreneurship, and puts forward strategies to promote their digital practices. 
+Pictures during the research period
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -29,7 +30,7 @@ This project focuses on rural female entrepreneurs who carry out digital practic
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Researcher is communicating with respondents
 </div>
 
 The study finds that rural female entrepreneurs are more inclined to take digital entrepreneurship as a supplement to their lives and work, focusing on community group buying, micro-business, and short video operation, showing the characteristics of low cost, low threshold and low risk.
@@ -46,7 +47,7 @@ While online entrepreneurship has positive impact on rural women of fulfilling l
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Pictures during the research period
 </div>
 
 
