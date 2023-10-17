@@ -7,10 +7,7 @@ importance: 1
 category: work
 related_publications: PhysRev.47.777
 ---
-With the acceleration of rural digitalization and the penetration of online purchasing, the rural offline economy is facing difficulties such as customer loss and profit reduction. Women, a main force in China's rural economic development, are seeking to achieve digital transformation for their offline businesses. This project focuses on rural female entrepreneurs who carry out digital practice in the era of digital economy transformation. Starting from understanding their use of digital media, this project explores the process of digital entrepreneurship, analyzes the opportunities and challenges of rural female entrepreneurs in digital entrepreneurship, and puts forward strategies to promote their digital practices. The study finds that rural female entrepreneurs are more inclined to take digital entrepreneurship as a supplement to their lives and work, focusing on community group buying, micro-business, and short video operation, showing the characteristics of low cost, low threshold and low risk. While online entrepreneurship has positive impact on rural women of fulfilling lives, balancing families, and pursuing themselves, it also brings them new dilemmas.
-
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+With the acceleration of rural digitalization and the penetration of online purchasing, the rural offline economy is facing difficulties such as customer loss and profit reduction. Women, a main force in China's rural economic development, are seeking to achieve digital transformation for their offline businesses. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -24,7 +21,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+This project focuses on rural female entrepreneurs who carry out digital practice in the era of digital economy transformation. Starting from understanding their use of digital media, this project explores the process of digital entrepreneurship, analyzes the opportunities and challenges of rural female entrepreneurs in digital entrepreneurship, and puts forward strategies to promote their digital practices. 
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -35,9 +32,9 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+The study finds that rural female entrepreneurs are more inclined to take digital entrepreneurship as a supplement to their lives and work, focusing on community group buying, micro-business, and short video operation, showing the characteristics of low cost, low threshold and low risk.
+
+While online entrepreneurship has positive impact on rural women of fulfilling lives, balancing families, and pursuing themselves, it also brings them new dilemmas.
 
 
 <div class="row justify-content-sm-center">
