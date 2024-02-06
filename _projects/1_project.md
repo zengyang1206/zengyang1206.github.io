@@ -2,7 +2,7 @@
 layout: page
 title: SHEIN —— KOL营销岗
 description: 时间：2024.01-2024.03
-img: assets/img/12.jpg
+img: assets/img/SHEIN.jpg
 importance: 1
 category: work
 related_publications: PhysRev.47.777
@@ -18,7 +18,7 @@ Shein（中文名“希音”）创立于2008年，是一家国际B2C快时尚�
     </div>
 </div>
 <div class="caption">
-    Researcher is communicating with respondents
+
 </div>
 ·实习岗位：KOL营销
 ·主要工作：
