@@ -1,7 +1,7 @@
 ---
 layout: page
 title: professional experience
-permalink: /projects/
+permalink: /professional_experience/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
