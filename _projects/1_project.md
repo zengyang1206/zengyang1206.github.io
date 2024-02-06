@@ -35,7 +35,7 @@ Shein（中文名“希音”）创立于2008年，是一家国际B2C快时尚�
 <div class="caption">
     
 </div>
-实习收获：
-熟悉KOL营销常规合作与活动合作从KOL开发、KOL维护到KOL合作评估全流程<br />
+实习收获：<br />
+①熟悉KOL营销常规合作与活动合作从KOL开发、KOL维护到KOL合作评估全流程<br />
 ②深入了解TikTok、Instagram和Youtube等海外社媒平台的使用<br />
 ③提升了KOL营销中的视频质量、KOL质量的判断能力<br />
