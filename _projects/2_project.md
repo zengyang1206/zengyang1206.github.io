@@ -31,10 +31,10 @@ related_publications: PhysRev.47.777
 <div class="caption">
 艺人代言官宣项目微信公众号发文图
 </div>
-实习收获：
-①熟悉广告制作从预热期、热度期到延续期中创意决定、脚本制作、PPM会议、物料准备、广告拍摄的全流程
-②为艺人海报拍摄动作提供范本
-③提升了沟通能力与团队协作能力。
+实习收获：<br />
+①熟悉广告制作从预热期、热度期到延续期中创意决定、脚本制作、PPM会议、物料准备、广告拍摄的全流程。<br />
+②为艺人海报拍摄动作提供范本。<br />
+③提升了沟通能力与团队协作能力。<br />
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/曾杨实习工作照(1).jpg" title="example image" class="img-fluid rounded z-depth-1" %}
