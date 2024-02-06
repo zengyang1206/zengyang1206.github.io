@@ -2,7 +2,7 @@
 layout: page
 title: Research Project on Rural Women's Digital Media Use and Entrepreneurial Practices
 description: This project focuses on rural female entrepreneurs who are engaged in digital practices in the era of digital economic transformation, takes their digital media use process as a research entry point, explores their practice of digital entrepreneurship using digital media, analyzes the opportunities and challenges of digital entrepreneurship for rural female entrepreneurs, and proposes strategies and opinions for them to better carry out their digital practices.
-img: assets/img/12.jpg
+img: assets/img/13.jpg
 importance: 2
 category: work
 related_publications: PhysRev.47.777

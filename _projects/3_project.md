@@ -7,6 +7,7 @@ img: assets/img/12.jpg
 importance: 3
 category: work
 related_publications: PhysRev.47.777
+---
 With the acceleration of rural digitalization and the penetration of online purchasing, the rural offline economy is facing difficulties such as customer loss and profit reduction. Women, a main force in China's rural economic development, are seeking to achieve digital transformation for their offline businesses. 
 
 <div class="row">
