@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Research Project on Rural Women's Digital Media Use and Entrepreneurial Practices
-description: This project focuses on rural female entrepreneurs who are engaged in digital practices in the era of digital economic transformation, takes their digital media use process as a research entry point, explores their practice of digital entrepreneurship using digital media, analyzes the opportunities and challenges of digital entrepreneurship for rural female entrepreneurs, and proposes strategies and opinions for them to better carry out their digital practices.
+title: 农村女性数字媒介使用与创业实践研究 
+description: 国家级大学生创新创业项目负责人
 img: assets/img/14.jpg
 importance: 3
 category: work
 related_publications: PhysRev.47.777
 ---
-这是第三个。
-With the acceleration of rural digitalization and the penetration of online purchasing, the rural offline economy is facing difficulties such as customer loss and profit reduction. Women, a main force in China's rural economic development, are seeking to achieve digital transformation for their offline businesses. 
+随着农村数字化进程的加快以及媒介使用的简易化、低门槛，作为中国乡村经济发展主力的女性群体开始寻求在原有实体经济上实现数字化转型。为此，本课题聚焦于在数字经济转型时代进行数字实践的农村女性创业者，将其数字媒介使用过程作为调查研究切口，探究其利用数字媒介进行数字创业的实践过程，分析农村女性创业者在数字创业中的机遇与挑战，为其更好地进行数字实践提出策略与意见。
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,7 +21,7 @@ With the acceleration of rural digitalization and the penetration of online purc
     </div>
 </div>
 <div class="caption">
-Pictures during the research period
+项目实地调研图
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,12 +29,11 @@ Pictures during the research period
     </div>
 </div>
 <div class="caption">
-    Researcher is communicating with respondents
+与受访者进行交流
 </div>
-The study finds that rural female entrepreneurs are more inclined to take digital entrepreneurship as a supplement to their lives and work, focusing on community group buying, micro-business, and short video operation, showing the characteristics of low cost, low threshold and low risk.
+研究发现，农村女性企业家更倾向于将数字创业视为生活和工作的补充，专注于社区团购、微型企业和短视频运营，表现出低成本、低门槛和低风险的特点。
 
-While online entrepreneurship has positive impact on rural women of fulfilling lives, balancing families, and pursuing themselves, it also brings them new dilemmas.
-
+尽管在线创业对农村妇女实现生活满足、平衡家庭和追求自我的积极影响，但也给她们带来了新的困境。
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -46,10 +44,8 @@ While online entrepreneurship has positive impact on rural women of fulfilling l
     </div>
 </div>
 <div class="caption">
-    Pictures during the research period
 </div>
-As the person in charge, I am mainly responsible for the planning and promotion of the project, the planning and implementation of questionnaires and interviews,  and the 
-writing of written materials such as the project proposal and research materials.
-In the research process of this national project, I led the team to 11 townships and districts, docking and in-depth interviews with more than 20 rural women entrepreneurs, 
-and analyzed the questionnaire data by using SPSS, NVivo, and formed a professional academic report,  and successfully completed the project in the expert group's review, 
-and was assessed as an "excellent project". The project was successfully completed and assessed as "Excellent Project" by the expert group.
+
+作为负责人，我主要负责项目的规划和推广，问卷和访谈的规划与实施，以及项目提案和研究材料等书面材料的撰写。
+
+在这个国家级项目的研究过程中，我带领团队走访了11个乡镇和区，与20多位农村女性企业家对接并进行了深入访谈，并利用SPSS、NVivo等工具分析了问卷数据，形成了专业的学术报告，在专家组的评审中成功完成了项目，并被评定为“优秀项目”。 
