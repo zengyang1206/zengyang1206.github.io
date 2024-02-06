@@ -1,50 +1,44 @@
 ---
 layout: page
-title: Research Project on Rural Women's Digital Media Use and Entrepreneurial Practices
-description: This project focuses on rural female entrepreneurs who are engaged in digital practices in the era of digital economic transformation, takes their digital media use process as a research entry point, explores their practice of digital entrepreneurship using digital media, analyzes the opportunities and challenges of digital entrepreneurship for rural female entrepreneurs, and proposes strategies and opinions for them to better carry out their digital practices.
-img: assets/img/13.jpg
+title: 李奥贝纳广告有限公司 —— AE Intern
+description: 时间：2022.12-2023.3
+img: assets/img/Leo.jpg
 importance: 2
 category: work
 related_publications: PhysRev.47.777
 ---
-这是第二个。
-With the acceleration of rural digitalization and the penetration of online purchasing, the rural offline economy is facing difficulties such as customer loss and profit reduction. Women, a main force in China's rural economic development, are seeking to achieve digital transformation for their offline businesses. 
-This project focuses on rural female entrepreneurs who carry out digital practice in the era of digital economy transformation. Starting from understanding their use of digital media, this project explores the process of digital entrepreneurship, analyzes the opportunities and challenges of rural female entrepreneurs in digital entrepreneurship, and puts forward strategies to promote their digital practices. 
+李奥贝纳广告有限公司是全球传播集团--阳狮集团PUBLICIS GROUPE旗下重要的广告代理商，4A广告公司。阳狮集团（Publicis Groupe），是全球第三大跨国传播服务集团，创建于1926年，集团总部位于巴黎。
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Leo.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-Pictures during the research period
 </div>
+·实习岗位：AE intern（协助Planning部门进行工作）<br />
+·实习内容:<br />
+①主要参与头部快消品牌艺人官宣及新品上市项目，协助 2 个品牌的品牌策略和营销策划的工作。<br />
+②参与 3 条视频的脚本创意及协作 brainstorming，对接 3 款产品的 PR shot、KV 物料准备制作。<br />
+③收集、分析、整理艺人及活动营销素材，进行品牌的竞品分析，并根据社交媒体特点制作宣传内容。<br />
+④创意 brief 的传达与会议记录的撰写。<br />
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/xiaozhan.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Researcher is communicating with respondents
+艺人代言官宣项目微信公众号发文图
 </div>
-The study finds that rural female entrepreneurs are more inclined to take digital entrepreneurship as a supplement to their lives and work, focusing on community group buying, micro-business, and short video operation, showing the characteristics of low cost, low threshold and low risk.
-
-While online entrepreneurship has positive impact on rural women of fulfilling lives, balancing families, and pursuing themselves, it also brings them new dilemmas.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/13.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/14.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+实习收获：
+①熟悉广告制作从预热期、热度期到延续期中创意决定、脚本制作、PPM会议、物料准备、广告拍摄的全流程
+②为艺人海报拍摄动作提供范本
+③提升了沟通能力与团队协作能力。
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/曾杨实习工作照(1).jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Pictures during the research period
 </div>
-As the person in charge, I am mainly responsible for the planning and promotion of the project, the planning and implementation of questionnaires and interviews
