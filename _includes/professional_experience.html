@@ -1,0 +1,36 @@
+<!-- _includes/professional_experience.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  {% if professional_experience.redirect -%}
+  <a href="{{ professional_experience.redirect }}">
+    {%- else -%}
+    <a href="{{ professional_experience.url | relative_url }}">
+      {%- endif %}
+      <div class="card hoverable">
+        {%- if professional_experience.img %}
+        {%- include figure.html
+          path=professional_experience.img
+          alt="professional_experience thumbnail" -%}
+        {%- endif %}
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">{{ professional_experience.title }}</h2>
+          <p class="card-text">{{ professional_experience.description }}</p>
+          <div class="row ml-1 mr-1 p-0">
+            {%- if professional_experience.github -%}
+            <div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Code Repository">
+                <a href="{{ professional_experience.github }}"><i class="fab fa-github gh-icon"></i></a>
+              </div>
+              {%- if professional_experience.github_stars -%}
+              <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+                <i class="fas fa-star"></i>
+                <span id="{{ professional_experience.github_stars }}-stars"></span>
+              </span>
+              {%- endif %}
+            </div>
+            {%- endif %}
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
