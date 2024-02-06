@@ -2,7 +2,7 @@
 layout: page
 title: 农村女性数字媒介使用与创业实践研究 
 description: 国家级大学生创新创业项目负责人
-img: assets/img/14.jpg
+img: assets/img/12.jpg
 importance: 3
 category: work
 related_publications: PhysRev.47.777
