@@ -1,30 +1,17 @@
 ---
 layout: page
-title: Research Project on Rural Women's Digital Media Use and Entrepreneurial Practices
-description: This project focuses on rural female entrepreneurs who are engaged in digital practices in the era of digital economic transformation, takes their digital media use process as a research entry point, explores their practice of digital entrepreneurship using digital media, analyzes the opportunities and challenges of digital entrepreneurship for rural female entrepreneurs, and proposes strategies and opinions for them to better carry out their digital practices.
+title: SHEIN —— KOL营销岗
+description: 时间：2024.01-2024.03
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: PhysRev.47.777
 ---
-这是第一个
-With the acceleration of rural digitalization and the penetration of online purchasing, the rural offline economy is facing difficulties such as customer loss and profit reduction. Women, a main force in China's rural economic development, are seeking to achieve digital transformation for their offline businesses. 
+Shein（中文名“希音”）创立于2008年，是一家国际B2C快时尚电子商务公司，主要经营女性快时尚领域，为全球消费者提供高性价比的时尚产品。
 
-This project focuses on rural female entrepreneurs who carry out digital practice in the era of digital economy transformation. Starting from understanding their use of digital media, this project explores the process of digital entrepreneurship, analyzes the opportunities and challenges of rural female entrepreneurs in digital entrepreneurship, and puts forward strategies to promote their digital practices. 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-Pictures during the research period
-</div>
+根据胡润研究院发布的《2023全球独角兽榜》，SHEIN在2023年的估值达到了4500亿人民币，超过了同行H&M和Zara市值总和（*该信息源于欧睿信息咨询 Euromonitor International报告数据 ），成为全球仅次于字节跳动、SpaceX和蚂蚁集团的“独角兽”企业。
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -33,25 +20,22 @@ Pictures during the research period
 <div class="caption">
     Researcher is communicating with respondents
 </div>
+·实习岗位：KOL营销
+·主要工作：
+①KOL开发：负责KOL求合作资源邮件的回复，开发KOL超20余人。
+②竞争对手视频监控：负责竞争对手Temu合作KOL视频发布的审核超1000条，对视频质量、合作KOL质量进行判断与创意收集。
+③KOL合作视频审核：KOL合作审核视频超3000条，判断KOL合作视频是否符合合作要求，为合作判断提供依据。
+④创意素材收集：收集整理SHEIN品牌KOL合作创意视频超2000条，子品牌SHEGLAM创意合作视频超500条。
 
-The study finds that rural female entrepreneurs are more inclined to take digital entrepreneurship as a supplement to their lives and work, focusing on community group buying, micro-business, and short video operation, showing the characteristics of low cost, low threshold and low risk.
-
-While online entrepreneurship has positive impact on rural women of fulfilling lives, balancing families, and pursuing themselves, it also brings them new dilemmas.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/13.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/14.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Pictures during the research period
+    Researcher is communicating with respondents
 </div>
-
-
-As the person in charge, I am mainly responsible for the planning and promotion of the project, the planning and implementation of questionnaires and interviews, and the writing of written materials such as the project proposal and research materials.
-
-In the research process of this national project, I led the team to 11 townships and districts, docking and in-depth interviews with more than 20 rural women entrepreneurs, and analyzed the questionnaire data by using SPSS, NVivo, and formed a professional academic report, and successfully completed the project in the expert group's review, and was assessed as an "excellent project". The project was successfully completed and assessed as "Excellent Project" by the expert group.
+实习收获：
+①熟悉KOL营销常规合作与活动合作从KOL开发、KOL维护到KOL合作评估全流程
+②深入了解TikTok、Instagram和Youtube等海外社媒平台的使用
+③提升了KOL营销中的视频质量、KOL质量的判断能力
