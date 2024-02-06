@@ -3,11 +3,12 @@ layout: page
 title: Research Project on Rural Women's Digital Media Use and Entrepreneurial Practices
 permalink: /professional experience/
 description: This project focuses on rural female entrepreneurs who are engaged in digital practices in the era of digital economic transformation, takes their digital media use process as a research entry point, explores their practice of digital entrepreneurship using digital media, analyzes the opportunities and challenges of digital entrepreneurship for rural female entrepreneurs, and proposes strategies and opinions for them to better carry out their digital practices.
-img: assets/img/12.jpg
+img: assets/img/14.jpg
 importance: 3
 category: work
 related_publications: PhysRev.47.777
 ---
+这是第三个。
 With the acceleration of rural digitalization and the penetration of online purchasing, the rural offline economy is facing difficulties such as customer loss and profit reduction. Women, a main force in China's rural economic development, are seeking to achieve digital transformation for their offline businesses. 
 
 <div class="row">

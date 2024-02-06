@@ -7,6 +7,7 @@ importance: 1
 category: work
 related_publications: PhysRev.47.777
 ---
+这是第一个
 With the acceleration of rural digitalization and the penetration of online purchasing, the rural offline economy is facing difficulties such as customer loss and profit reduction. Women, a main force in China's rural economic development, are seeking to achieve digital transformation for their offline businesses. 
 
 This project focuses on rural female entrepreneurs who carry out digital practice in the era of digital economy transformation. Starting from understanding their use of digital media, this project explores the process of digital entrepreneurship, analyzes the opportunities and challenges of rural female entrepreneurs in digital entrepreneurship, and puts forward strategies to promote their digital practices. 
